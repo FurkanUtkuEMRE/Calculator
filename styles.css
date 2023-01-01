@@ -110,3 +110,12 @@ button[data-type='operator'] {
 button[data-type='equals'] {
   color: #800000;
 }
+
+.warning {
+  flex: 1;
+  color: #dddddd;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0;
+}
